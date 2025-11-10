@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.2.9">
   <diagram name="Страница — 1" id="snz6Xs9h_G2sTdIxWuYm">
-    <mxGraphModel dx="1883" dy="2914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="2140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Qw6GwuBBNlkQMA0Lq0B-2" value="Фронтенд" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="-1210" width="100" height="60" as="geometry" />
+          <mxGeometry x="-470" y="-620" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Qw6GwuBBNlkQMA0Lq0B-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Qw6GwuBBNlkQMA0Lq0B-3" target="5Qw6GwuBBNlkQMA0Lq0B-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -311,10 +311,10 @@
           <mxGeometry x="610" y="-290" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TNgnJMglh3jnPDpGwYTS-92" value="Телеграмм бот" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-324" y="-1300" width="100" height="60" as="geometry" />
+          <mxGeometry x="-324" y="-710" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TNgnJMglh3jnPDpGwYTS-93" value="Веб сайт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-324" y="-1120" width="100" height="60" as="geometry" />
+          <mxGeometry x="-324" y="-530" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
